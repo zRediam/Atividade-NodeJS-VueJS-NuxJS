@@ -1,0 +1,3 @@
+<template>
+  <WindowLP />
+</template>
